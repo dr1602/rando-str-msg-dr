@@ -1,6 +1,6 @@
 {
   "name": "rando-str-msg-dr",
-  "version": "1.1.0",
+  "version": "2.1.0",
   "description": "NPM Package Creation Practice - Random String Messages",
   "main": "index.js",
   "scripts": {
