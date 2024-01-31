@@ -1,0 +1,28 @@
+{
+  "name": "rando-str-msg-dr",
+  "version": "1.0.0",
+  "description": "NPM Package Creation Practice - Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dr1602/rando-str-msg-dr.git"
+  },
+  "keywords": [],
+  "author": "David Rangel <david@adabyron.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dr1602/rando-str-msg-dr/issues"
+  },
+  "homepage": "https://github.com/dr1602/rando-str-msg-dr#readme",
+  "bin": {
+    "rando-str-msg-dr": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "user": "^0.0.0"
+  }
+}
