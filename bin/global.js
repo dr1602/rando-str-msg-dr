@@ -1,4 +1,5 @@
 #!/usr/bin/env node
-let random = require('../src/index.js');
+let clave = require('../src/index.js');
 
-random.funnyCommit(); 
+clave.iniciarGenerador(); 
+clave.generarContraseña(); 
