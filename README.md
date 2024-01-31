@@ -15,6 +15,8 @@ npm install g rando-str-msg-dr
 bash
 rando-str-msg-dr
 
+```
+
 Te pregunta las siguientes variables
 
 Longitud de la contraseña (mínimo 1, máximo 21): LA RESPUESTA PUEDE SER UN NÚMERO DEL 1 AL 21, SI ES DIFERENTE LO ACERCARÁ AL VALOR DEL RANGO MÁS CERCANO.
@@ -26,6 +28,5 @@ Longitud de la contraseña (mínimo 1, máximo 21): LA RESPUESTA PUEDE SER UN N�
 ¿Usar caracteres especiales? (Sí/No): LA RESPUESTA PUEDE SER true, yes, y, si o s, INDEPENDIENTEMENTE DE SI ES MINÚSCULA O MAYÚSCULA.
 
 ¿Usar mayúsculas? (Sí/No): LA RESPUESTA PUEDE SER true, yes, y, si o s, INDEPENDIENTEMENTE DE SI ES MINÚSCULA O MAYÚSCULA.
-```
 
 # Contributing
